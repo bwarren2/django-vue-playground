@@ -1,0 +1,11 @@
+.git
+.gitignore
+.aws
+.cache
+.env
+__pycache__
+*.pyc
+*.pyo
+docker
+README.md
+docker-compose.yml
